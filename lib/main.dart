@@ -58,8 +58,8 @@ class _BMICalState extends State<BMICal> {
                 height: 10.0,
               ),
               Image(
-                image: NetworkImage(
-                    'https://i2s3e2c6.stackpathcdn.com/wp-content/uploads/2019/06/BMI-ECPL.jpg'),
+                image:AssetImage("images/image1.jpg"),
+
               ),
               SizedBox(
                 height: 70.0,
